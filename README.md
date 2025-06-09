@@ -1,5 +1,20 @@
 # 📚 Book API – lösenordsskyddat boksystem med MongoDB och användarhantering
 
+## Innehållsförteckning
+
+
+1. 📍 [Inlämningar](#inlämningar)  
+2. 🔍 [Projektbeskrivning](#projektbeskrivning)  
+3. 🗄️ [Databasstruktur – MongoDB](#databasstruktur--mongodb)  
+4. 🔌 [API Endpoints](#api-endpoints)  
+5. 🖥️ [Klientgränssnitt](#klientgränssnitt)  
+6. 🧪 [Tekniker & Verktyg](#tekniker--verktyg)  
+7. 👥 [Projektmedlemmar](#projektmedlemmar)  
+8. 🛠️ [Installationer](#installationer)  
+9. 📌 [Sammanfattning](#sammanfattning) 
+10. ⭐ [Slutbetyg](#slutbetyg)
+
+
 | Inlämningar |
 | ----------- |
 | [MongoDB](external-assets/MongoDB) |
@@ -198,3 +213,7 @@ Exempel på specifika beroenden som används:
 Book API är ett webbaserat system som ger både administratörer och vanliga användare möjlighet att hantera ett digitalt bibliotek. Genom integration med MongoDB och ett rollbaserat skyddssystem kan projektet enkelt utökas med ytterligare funktioner såsom filtrering, sök eller rollstyrd tillgång.
 
 Alla filer relaterade till projektet, såsom Figma-design, Insomnia-export, MongoDB-export, dagboksanteckningar med mera, finns samlade i mappen "External assets". 
+
+
+## ⭐ Slutbetyg
+<img width="505" alt="Betyg API verktyg API gruppuppgift Book API" src="https://github.com/user-attachments/assets/d9026aa3-0f74-4e4f-ae30-f6a329ac6469" />
